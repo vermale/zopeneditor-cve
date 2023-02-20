@@ -4,16 +4,7 @@
 *
 * Note to U.S. Government Users Restricted Rights:
 * Use, duplication or disclosure restricted by GSA ADP Schedule
-* Contract with IBM Corp.
-********************************************************************************
-* Fibonacci algorithm
-*
-* f[0] = 0
-* f[1] = 1
-* f[n] = f[n - 1] + f[n - 2] where 2 <= n <= infinity
-*
-* The following implementation uses a compound symbol to act an array, which
-* contains the fibonacci sequence until a provided index.
+* Cont
 *******************************************************************************/
 
 fibonacci(6)
