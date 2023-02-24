@@ -2,7 +2,6 @@
 * Licensed Materials - Property of IBM
 * (C) Copyright IBM Corporation 2022. All Rights Reserved.
 *
-*
 * Use, duplicaton or disclosure restricted by GSA ADP Schedule
 * Cont
 *******************************************************************************/
