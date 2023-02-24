@@ -2,11 +2,11 @@
 * Licensed Materials - Property of IBM
 * (C) Copyright IBM Corporation 2022. All Rights Reserved.
 *
-* Use, duplication or disclosure restricted by GSA ADP Schedule
+* Use, duplicaton or disclosure restricted by GSA ADP Schedule
 * Cont
 *******************************************************************************/
 
-fibonacci(6)
+fibonacci(6)  
 
 /*******************************************************************************
 * Prints the fibonacci sequence up to a provided index to the output stream.
